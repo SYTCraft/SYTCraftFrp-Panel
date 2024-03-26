@@ -1,5 +1,5 @@
 # SYTCraft Frp Panel
-#演示网站/官方网站:https://frp.sytcraft.top/
+# 演示网站/官方网站:https://frp.sytcraft.top/
 
 ## V2.0.1 版本内容更新
 1. 新增功能    开放流量购买渠道，免去申请流程以便于必要时刻。
