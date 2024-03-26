@@ -7,5 +7,4 @@
 3. 体验优化    加载方式优化
 # 开始
 #### 下载面板
-    eg: forever start app-service.js
-        forever start logger-service.js
+    null
