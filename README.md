@@ -1,4 +1,10 @@
 # SYTCraft Frp Panel
+# 演示网站/官方网站:https://frp.sytcraft.top/
+    eg: forever start app-service.js
+        forever start logger-service.js
+
+
+###########目录结构描述
 ├── Readme.md                   // help
 ├── app                         // 应用
 ├── config                      // 配置
@@ -24,8 +30,6 @@
 ├── test
 ├── test-service.js
 └── tools
-
-# 演示网站/官方网站:https://frp.sytcraft.top/
 # 公告
 ### V2.0.1 版本内容更新
 1. 新增功能    开放流量购买渠道，免去申请流程以便于必要时刻。
