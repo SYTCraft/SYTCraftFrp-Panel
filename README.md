@@ -1,5 +1,5 @@
 # SYTCraft Frp Panel
-# 演示网站/官方网站:https://frp.sytcraft.top/
+# 演示网站/官方网站:https://govfrp.com/
 # 公告
 ---
 ### 注意：此项目需要与项目“SYTCraft Frp”搭配！
